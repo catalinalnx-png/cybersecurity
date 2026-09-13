@@ -1,23 +1,35 @@
-Firewall Simulation
+Python Cybersecurity Projects
 
-A simple Python-based firewall simulation that generates random IP addresses
-and decides whether to allow or block network traffic based on predefined rules.
+A collection of beginner-friendly cybersecurity projects written in Python.
 
-Features
+Projects
 
-- Generates random private IP addresses
-- Simulates network traffic
-- Randomly generates traffic values
-- Applies allow/block actions
-- Displays the simulated traffic in the terminal
+1. Firewall Simulation
 
-Requirements
+A simple Python firewall simulation that demonstrates how firewall rules can be used to allow or block network traffic.
 
-- Python 3.x
+Folder:
+`firewall-simulation/`
 
-How to Run
+Main file:
+`firewall.py`
 
-Clone the repository:
+2. DoS Blocker
 
-```bash
-git clone https://github.com/catalinalnx-png/cybersecurity.git
+A simple Python project that demonstrates the basic concept of detecting and blocking repeated network requests from the same source.
+
+Folder:
+`dos-blocker/`
+
+Main file:
+`dos_blocker.py`
+
+Technologies
+
+- Python
+- Git
+- GitHub
+
+## Purpose
+
+These projects are created for learning and practicing basic cybersecurity concepts using Python.
